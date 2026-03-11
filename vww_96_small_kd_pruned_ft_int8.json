@@ -1,0 +1,13 @@
+{
+    "model_name": "vww_96_small_kd_pruned_ft_int8.tflite",
+    "split": "test_public",
+    "accuracy": 0.8343367998540412,
+    "size_mb": 0.22032928466796875,
+    "macs_m": 5.595776,
+    "latency_p50_ms": 2.9302106704562902,
+    "latency_p90_ms": 3.3133580815047026,
+    "latency_p99_ms": 4.372844998724756,
+    "threads": 1,
+    "created_at": "Fri Mar  6 14:17:21 2026",
+    "score": 1.025819356518444
+}
